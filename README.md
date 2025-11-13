@@ -3,9 +3,9 @@
 > Disciplina: Domain Drive Design
 > 
 ## Integrantes: 
-- João Vitor de Matos Araujo (RM559246)
-- Gabriel Kato (RM)
-- Gabriel Couto (RM)
+- João Vitor de Matos Araujo - RM559246
+- Gabriel Kato - RM560000
+- Gabriel Couto - RM
 
 ---
 
