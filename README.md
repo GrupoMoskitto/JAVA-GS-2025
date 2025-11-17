@@ -5,7 +5,7 @@
 ## Integrantes: 
 - João Vitor de Matos Araujo - RM559246
 - Gabriel Kato - RM560000
-- Gabriel Couto - RM
+- Gabriel Couto - RM559579
 
 ---
 
